@@ -11,6 +11,7 @@ Welcome to flamenco's documentation!
    :caption: Contents:
 
    about
+   2022/index
 
 Indices and tables
 ==================
