@@ -11,7 +11,7 @@ copyright = '2022, Flamenco'
 author = 'Flamenco'
 release = 'v1'
 
-# -- General couration ---------------------------------------------------
+# -- General couraion ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 #extensions = []
