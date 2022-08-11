@@ -1,4 +1,6 @@
-# Sphinx + GitHub + Read the Docs
+# 关于开源文档
+
+## 文档托管 Sphinx + GitHub + Read the Docs
 ```
 Read the Docs是一个基于 Sphinx 的免费文档托管项目。该项目在 2010 年由 Eric Holscher、Bobby Grace 和 Charles Leifer 共同发起。
 Read the Docs 网站：https://readthedocs.org/
@@ -14,16 +16,11 @@ reStructuredText 网站：http://docutils.sf.net/rst.html
 ```
 
 
-## Error
--  INFO: exception: No module named 'sphinx_markdown_tables'
+## 搭建中碰到的问题
+-  1. exception: No module named 'sphinx_markdown_tables'
 - - FIX: 增加requirements.txt文件，补充sphinx-markdown-tables==0.0.17 
 
-
-
-
-
-
-
+## 搭建指南与构建类信息
 
 [Sphinx + GitHub + Read the Docs](https://www.freesion.com/article/67781373740/)
 
