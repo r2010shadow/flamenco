@@ -16,9 +16,11 @@ reStructuredText 网站：http://docutils.sf.net/rst.html
 ```
 
 
-## 搭建中碰到的问题
--  1. exception: No module named 'sphinx_markdown_tables'
+## 使用中遇到的问题
+- 1. exception: No module named 'sphinx_markdown_tables'
 - - FIX: 增加requirements.txt文件，补充sphinx-markdown-tables==0.0.17 
+- 2. 文档更新构建后，浏览内容仍是缓存内容
+- - FIx: 临时解决办法 手动刷新页面
 
 ## 搭建指南与构建类信息
 
